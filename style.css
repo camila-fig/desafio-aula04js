@@ -38,12 +38,33 @@ figure{
   }
 
   .variaveis{
-    padding-bottom: 16px;
+    padding-bottom: 18px;
   }
 
   .exemplo{
     border: 1px solid gray;
-    padding: 16px;
+    border-radius: 5px;
+    padding: 0 0 6px 10px;
+  }
+
+  .subtitulo{
+    padding: 16px 0 16px 0;
+  }
+
+  table{
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    width: 480px;
+  }
+
+  th{
+    border: 1px solid gray;
+    background-color: lightgray;
+  }
+
+  td{
+    border: 1px solid gray;
   }
 
   footer{
